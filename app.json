@@ -1,0 +1,17 @@
+{
+  "name": "MiPrimerProReactNative",
+  "displayName": "MiPrimerProReactNative",
+  "expo": {
+    "name": "MiPrimerProReactNative",
+    "slug": "MiPrimerProReactNative",
+    "version": "1.0.0",
+    "platforms": [
+      "ios",
+      "android",
+      "web"
+    ],
+    "assetBundlePatterns": [
+      "**/*"
+    ]
+  }
+}
