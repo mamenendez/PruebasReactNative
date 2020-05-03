@@ -1,7 +1,13 @@
 {
+  
   "name": "MiPrimerProReactNative",
   "displayName": "MiPrimerProReactNative",
+  "icon": "./images/logo.png",
   "expo": {
+    "splash": {
+      "image": "./assets/splash.png",
+      "resizeMode": "cover"
+    },
     "name": "MiPrimerProReactNative",
     "slug": "MiPrimerProReactNative",
     "version": "1.0.0",
@@ -14,4 +20,6 @@
       "**/*"
     ]
   }
+  
+  
 }
